@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: MyString
+  user: one
+  active: MyString
+  name: MyString
+  start_time: MyString
+
+two:
+  time: MyString
+  user: two
+  active: MyString
+  name: MyString
+  start_time: MyString
